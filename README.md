@@ -50,7 +50,7 @@ To run this project on your local machine, follow these steps:
 
 The model's predictions are plotted against the actual closing prices for the test period. The graph shows that the model is quite effective at tracking the general trend of the stock price.
 
-![Final Plot](https://i.imgur.com/G4tX77W.png)
+![Stock Price Prediction Model](./images/result.png)
 
 ## ⚠️ Disclaimer
 
