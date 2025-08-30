@@ -46,11 +46,9 @@ To run this project on your local machine, follow these steps:
 4.  **Run the Jupyter Notebook:**
     Open and run the `Stock_Price_Prediction.ipynb` notebook in a Jupyter environment.
 
-
 ##  workflow
 
-![Project Workflow Mind Map](./images/Workflow.png)
-
+![Project Workflow Mind Map](./images/Workflow.png)    
 
 ## 📊 Results
 
@@ -58,10 +56,9 @@ The model's predictions are plotted against the actual closing prices for the te
 
 ![Stock Price Prediction Model](./images/result.png)
 
-
 ## ⚠️ Disclaimer
 
 This model is for educational purposes only and should not be used for making actual investment decisions. The stock market is highly volatile and influenced by many factors beyond historical data.
 
 ---
-**Author**: Rama Krishna Reddy (123ad0043)"# Stock-Price-Prediction-LSTM" 
+**Author**: Rama Krishna Reddy"# Stock-Price-Prediction-LSTM" 
