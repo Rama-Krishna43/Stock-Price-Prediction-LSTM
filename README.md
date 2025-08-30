@@ -49,7 +49,7 @@ To run this project on your local machine, follow these steps:
 
 ##  workflow
 
-![Project Workflow Mind Map](./images/project-workflow.png)
+![Project Workflow Mind Map](./images/Workflow.png)
 
 
 ## 📊 Results
